@@ -1,6 +1,6 @@
-Python_Data_Analysis -Application
 
------------------------------------------------------
+Python_Data_Analysis-Application
+--
 Laptop Screenshots
 ----------------------------------------------------------
 ![image](https://github.com/user-attachments/assets/f2b58b64-cfb8-4ec9-83ff-df3e35e8bafe)
